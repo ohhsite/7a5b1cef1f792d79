@@ -36,6 +36,11 @@
       "description": "Regularnie będziemy omawiać postępy i w razie potrzeby modyfikować plan terapeutyczny, aby jak najlepiej odpowiadał na Twoje potrzeby.",
       "icon": "BarChart",
       "order": 5
+    },
+    {
+      "title": "test",
+      "description": "TWEST",
+      "order": 6
     }
   ]
 }
